@@ -8,7 +8,7 @@ else{
 ?>
 
 	<form name="addPerson" action = "addPerson.php"  method = "POST">
-	<h2>New Registration For Blood Donors fhfhz</h2>
+	<h2>The Registration For Blood </h2>
 	<br>
 
 	<?php
