@@ -8,7 +8,7 @@ else{
 ?>
 
 	<form name="addPerson" action = "addPerson.php"  method = "POST">
-	<h2>New Registration</h2>
+	<h2>New Registration  5678</h2>
 	<br>
 
 	<?php
