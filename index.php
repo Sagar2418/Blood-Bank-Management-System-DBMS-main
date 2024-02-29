@@ -2,7 +2,7 @@
 <html>  
 	<head>  
 		<title>
-			The Blood Bank Management System
+			The sdgf Blood Bank Management System
 		</title>  
 		<link rel="stylesheet" type="text/css" href="css/index.css">
 		<link rel="icon" type="image/x-icon" href="favicon.ico" />
